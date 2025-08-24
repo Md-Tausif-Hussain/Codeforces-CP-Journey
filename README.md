@@ -10,29 +10,6 @@ The goal is to track my **competitive programming journey**, improve problem-sol
 
 ---
 
-## 📂 Repository Structure
-
-
----
-
-## 🚀 My Competitive Programming Goals
-
-- ✅ Solve **500+ problems** across different ratings  
-- ✅ Master problem-solving in **C++ STL + Algorithms**  
-- ✅ Improve contest performance & climb the leaderboard  
-- 🎯 Rating Goals: **Specialist → Expert → Candidate Master**  
-
----
-
-## 📊 Progress Tracker
-
-- **Total Problems Solved**: _Updating regularly_  
-- **Highest Problem Rating Solved**: 1600+  
-- **Current CF Rating**: Pupil (1200+)  
-- **Target**: Specialist 🔥  
-
----
-
 ## 🛠️ Language & Topics
 
 - **Language Used**: C++17/20  
@@ -40,14 +17,6 @@ The goal is to track my **competitive programming journey**, improve problem-sol
   - Data Structures: Arrays, Strings, STL, Trees, Graphs  
   - Algorithms: Greedy, Dynamic Programming, Binary Search, Graph Theory  
   - Number Theory, Combinatorics, Geometry  
-
----
-
-## ✨ How to Use
-
-1. Browse problems by rating inside respective folders (`800/`, `900/`, …).  
-2. Contest solutions are inside `Contests/`.  
-3. Reusable CP templates are in `Templates/`.  
 
 ---
 
